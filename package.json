@@ -1,6 +1,6 @@
 {
   "name": "bita.nodejsnotify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs notification management micro-service",
   "main": "index.js",
   "scripts": {
