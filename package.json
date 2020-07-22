@@ -1,0 +1,27 @@
+{
+  "name": "notify",
+  "version": "1.0.0",
+  "description": "Nodejs notification management micro-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farshadfakhar/nodejs.notify.git"
+  },
+  "keywords": [
+    "notification",
+    "smsir",
+    "sms-ir"
+  ],
+  "author": "Farshad Fakhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farshadfakhar/nodejs.notify/issues"
+  },
+  "homepage": "https://github.com/farshadfakhar/nodejs.notify#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
